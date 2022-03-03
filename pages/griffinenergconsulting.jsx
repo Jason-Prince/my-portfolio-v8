@@ -13,7 +13,7 @@ const info = {
   subtitle: "next.js",
   width: 1255,
   height: 900,
-  src: "/Griffin.png",
+  src: "/gec_0.png",
   alt: "Griffin EnerG Consulting home page",
 };
 

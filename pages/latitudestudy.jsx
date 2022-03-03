@@ -13,7 +13,7 @@ const info = {
   subtitle: "Javascript",
   width: 1926,
   height: 943,
-  src: "/latitude-study.png",
+  src: "/ls_0.png",
   alt: "Latitude Study",
 };
 
