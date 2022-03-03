@@ -18,6 +18,7 @@ const Thumbnail = ({ image, handleClick, selectElement, isFullScreen }) => {
         alt="..."
         src={image.src}
         className={styles.img}
+        unoptimized={true}
       />
     </div>
   );
