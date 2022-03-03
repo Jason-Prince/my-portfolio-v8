@@ -1,0 +1,10 @@
+.typography {
+  height: 50vh;
+  font-size: 1.5em;
+  font-weight: 300;
+  line-height: 1.5;
+  letter-spacing: 0.25px;
+  display: grid;
+  width: clamp(11em, 60vw, 32em);
+  place-self: center;
+}
