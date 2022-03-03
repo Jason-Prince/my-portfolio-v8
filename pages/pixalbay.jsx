@@ -35,7 +35,7 @@ const images = [
 ];
 
 const text = {
-  text: "This app demonstrates my ability to fetch data from an API. This API comes from pixabay.com. Wrote the fetch in useEffect and handled the promise with &#34;.then&#34;. For stying and a responsive layout, I went with a css utility, tailwindcss.",
+  text: 'This app demonstrates my ability to fetch data from an API. This API comes from pixabay.com. Wrote the fetch in useEffect and handled the promise with ".then". For stying and a responsive layout, I went with a css utility, tailwindcss.',
 };
 
 const repo = {
