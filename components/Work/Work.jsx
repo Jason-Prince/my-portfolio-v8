@@ -6,13 +6,13 @@ import styles from "./Work.module.scss";
 const images = [
   {
     href: "/griffinenergconsulting",
-    src: "/Griffin.png",
+    src: "/gec_0.png",
     width: 1225,
     height: 903,
   },
   {
     href: "/latitudestudy",
-    src: "/latitude-study.png",
+    src: "/ls_0.png",
     width: 1926,
     height: 943,
   },
