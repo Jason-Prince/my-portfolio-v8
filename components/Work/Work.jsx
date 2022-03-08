@@ -28,6 +28,12 @@ const images = [
     width: 1897,
     height: 948,
   },
+  {
+    href: "/contacts",
+    src: "/c_0.png",
+    width: 1915,
+    height: 879,
+  },
 ];
 const section = {
   title: "My Work",
